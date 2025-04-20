@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer & Cyber Security Analyst
 --------------------------------------------
 
-With 8+ years of experience, I build scalable, secure, and high-performance applications across web, mobile, and cloud. My expertise includes: 🛠 Core Skills Frontend: React, Next.js, TypeScript, JavaScript, jQuery, HTML5, CSS3, TailwindCSS, Bootstrap, Material UI, Redux Backend: Node.js, Express, NestJS, PHP, Python (Flask, Django), .NET Mobile: Flutter, Dart, Kotlin Databases: MongoDB, MySQL, PostgreSQL, Firebase DevOps & Cloud: AWS, Google Cloud, Linux, Docker, Git Security: Web Security, Network Security, Secure Architecture AI/ML: TensorFlow (Basic) Other Tools: VS Code, Sublime Text, Vim, Figma, Arduino, WordPress, Wix 💡 What I Do Best Develop full-stack web apps (React, Next.js, Node.js) with optimized performance. Build cross-platform mobile apps (Flutter) with smooth, native-like UX. Architect secure, scalable backends (NestJS, Django, PHP) with robust databases. Implement cloud solutions (AWS, GCP) and CI/CD pipelines for seamless deployment. Ensure application security by addressing vulnerabilities at all levels. 🚀 Let’s Collaborate! Passionate about solving complex problems with clean, efficient code. Open to open-source contributions, innovative projects, and tech discussions.
+With 8+ years of experience, I build scalable, secure, high-performance web, mobile, and cloud applications. My expertise includes: 
+🛠 Core Skills Frontend: React, Next.js, TypeScript, JavaScript, jQuery, HTML5, CSS3, TailwindCSS, Bootstrap, Material UI, Redux Backend: Node.js, Express, NestJS, PHP, Python (Flask, Django), .NET Mobile: Flutter, Dart, Kotlin Databases: MongoDB, MySQL, PostgreSQL, Firebase DevOps & Cloud: AWS, Google Cloud, Linux, Docker, Git Security: Web Security, Network Security, Secure Architecture AI/ML: TensorFlow (Basic) Other Tools: VS Code, Sublime Text, Vim, Figma, Arduino, WordPress, Wix 
+
+💡 What I Do Best: Develop full-stack web apps (React, Next.js, Node.js) with optimized performance. Build cross-platform mobile apps (Flutter) with smooth, native-like UX. Architect secure, scalable backends (NestJS, Django, PHP) with robust databases. Implement cloud solutions (AWS, GCP) and CI/CD pipelines for seamless deployment. Ensure application security by addressing vulnerabilities at all levels. 
+
+🚀 Let’s Collaborate! Passionate about solving complex problems with clean, efficient code. Open to open-source contributions, innovative projects, and tech discussions.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Cybogeek.com](http://cybogeek.com)
